@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "modules",
+      "default": true
+    }
+  ],
+  "name": "pet-adoption",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "62.0"
+}
